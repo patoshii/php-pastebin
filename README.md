@@ -1,4 +1,6 @@
 # php-pastebin
 
-- Simple captcha
-- 200 days retention and Limits added
+A self hosted pastebin.
+
+- Simple captcha security
+- 200 days retention of files and Limits added
